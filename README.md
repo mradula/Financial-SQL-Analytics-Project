@@ -24,3 +24,6 @@ This project demonstrates advanced SQL analytics on financial transaction data, 
 - Window functions
 - Fraud detection logic
 - Business analytics storytelling
+
+- <img width="1143" height="643" alt="image" src="https://github.com/user-attachments/assets/581c17b6-99eb-4994-b063-0b5765d1168b" />
+
